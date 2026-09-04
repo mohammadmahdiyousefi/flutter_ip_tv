@@ -2,6 +2,7 @@
   "name": "RM TV",
   "short_name": "RM TV",
   "start_url": "/flutter_ip_tv/",
+  "scope": "/flutter_ip_tv/",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
